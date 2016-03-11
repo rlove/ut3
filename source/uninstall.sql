@@ -1,14 +1,14 @@
-DROP PACKAGE ut3TestRunner;
+drop package ut_test_runner;
 
-DROP PACKAGE ut3TestExecute;
+drop package ut_test_execute;
 
-DROP PACKAGE ut3Assert;
+drop package ut_assert;
 
-DROP PACKAGE ut3ReporterExecution;
+drop package ut_reporter_execution;
 
-DROP PACKAGE ut3MetaData;
+drop package ut_metadata;
 
-DROP PACKAGE ut3Types;
+drop package ut_types;
 
 
 
